@@ -1,0 +1,13 @@
+Artificial Intelligence
+Index Report 2025
+21
+4. AI safety institutes expand and coordinate across the globe. In 2024, countries worldwide launched international 
+AI safety institutes. The first emerged in November 2023 in the U.S. and the U.K. following the inaugural AI Safety Summit. At 
+the AI Seoul Summit in May 2024, additional institutes were pledged in Japan, France, Germany, Italy, Singapore, South Korea, 
+Australia, Canada, and the European Union.
+5. The number of U.S. AI-related federal regulations skyrockets. In 2024, 59 AI-related regulations were 
+introduced—more than double the 25 recorded in 2023. These regulations came from 42 unique agencies, twice the 21 agencies 
+that issued them in 2023.
+6. U.S. states expand deepfake regulations. Before 2024, only five states—California, Michigan, Washington, Texas, 
+and Minnesota—had enacted laws regulating deepfakes in elections. In 2024, 15 more states, including Oregon, New Mexico, 
+and New York, introduced similar measures.

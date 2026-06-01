@@ -1,0 +1,9 @@
+r fund, France 
+committed €109 billion, India pledged $1.25 billion, and Saudi Arabia’s Project Transcendence represents a $100 billion initiative.
+9. AI and computer science education is expanding—but gaps in access and readiness persist. Two-thirds 
+of countries now offer or plan to offer K–12 CS education—twice as many as in 2019—with Africa and Latin America making 
+the most progress. In the U.S., the number of graduates with bachelor’s degrees in computing has increased 22% over the last 
+10 years. Yet access remains limited in many African countries due to basic infrastructure gaps like electricity. In the U.S., 81% of 
+K–12 CS teachers say AI should be part of foundational CS education, but less than half feel equipped to teach it.
+10. Industry is racing ahead in AI—but the frontier is tightening. Nearly 90% of notable AI models in 2024 came 
+from industry, up from 60% in 2023, while academia remains the top source of highly cited research. Model scale continues to

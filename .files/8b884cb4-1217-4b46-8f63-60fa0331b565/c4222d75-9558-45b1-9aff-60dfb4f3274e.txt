@@ -1,0 +1,22 @@
+114
+Artificial Intelligence
+Index Report 2025
+Table of Contents
+Chapter 2 Preview
+2.2 Language
+Chapter 2: Technical Performance
+RAG: Retrieval Augment Generation (RAG)
+An increasingly common capability being tested in LLMs 
+is retrieval-augmented generation (RAG). This approach 
+integrates LLMs with retrieval mechanisms to enhance 
+their response generation. The model first retrieves relevant 
+information from files or documents and then generates a 
+response tailored to the user’s query based on the retrieved 
+content. RAG has diverse use cases, including answering 
+precise questions from large databases and addressing 
+customer queries using information from company documents.
+In recent years, RAG has received increasing attention from 
+researchers and companies. For example, in September 
+2024, Anthropic introduced Contextual Retrieval, a method 
+that significantly enhances the retrieval capabilities of RAG 
+models. 2024 also saw the release of numerous benchmarks

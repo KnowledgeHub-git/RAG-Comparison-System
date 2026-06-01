@@ -1,0 +1,12 @@
+tors worldwide who have all helped shape this list. The
+process involved brainstorming sessions, voting, and real-world feedback from professionals in
+the thick of LLM application security, whether by contributing or refining those entries through
+feedback. Each voice was critical to making this new release as thorough and practical as possible.
+What’s New in the 2025 Top 10
+The 2025 list reflects a better understanding of existing risks and introduces critical updates on
+how LLMs are used in real-world applications today. For instance, Unbounded Consumption
+expands on what was previously Denial of Service to include risks around resource management
+and unexpected costs—a pressing issue in large-scale LLM deployments.
+The Vector and Embeddings entry responds to the community’s requests for guidance on securing
+Retrieval-Augmented Generation (RAG) and other embedding-based methods, now core practices
+for grounding model outputs.

@@ -1,0 +1,9 @@
+inated from the United States than any other country.
+5. AI models get increasingly bigger, more computationally demanding, and more energy intensive. 
+New research finds that the training compute for notable AI models doubles approximately every five months, dataset sizes 
+for training LLMs every eight months, and the power required for training annually. Large-scale industry investment continues 
+to drive model scaling and performance gains.
+CHAPTER 1: 
+Research and Development
+Artificial Intelligence
+Index Report 2025

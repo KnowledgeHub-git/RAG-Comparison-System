@@ -1,0 +1,15 @@
+Artificial Intelligence
+Index Report 2025
+9
+Introduction
+Loredana Fattorini, Yolanda Gil, Nestor Maslej, Vanessa Parli, Ray Perrault
+Chapter 1: Research and Development
+Nancy Amato, Andrea Brown, Ben Cottier, Lucía Ronchi Darré, Virginia Dignum, Meredith Ellison, Robin Evans, Loredana Fattorini, 
+Yolanda Gil, Armin Hamrah, Katrina Ligett, Nestor Maslej, Maurice Pagnucco, Ngorli Fiifi Paintsil, Vanessa Parli, Ray Perrault, 
+Robi Rahman, Christine Raval, Vesna Sabljakovic-Fritz, Angelo Salatino, Lapo Santarlasci, Andrew Shi, Nathan Sturtevant, Daniel 
+Weld, Kevin Xu, Meg Young
+Chapter 2: Technical Performance
+Rishi Bommasani, Erik Brynjolfsson, Loredana Fattorini, Tobi Gertsenberg, Yolanda Gil, Noah Goodman, Nicholas Haber, Armin 
+Hamrah, Sanmi Koyejo, Percy Liang, Katrina Ligett, Nestor Maslej, Juan Carlos Niebles, Sukrut Oak, Vanessa Parli, Marco Pavone, 
+Ray Perrault, Anka Reuel, Andrew Shi, Yoav Shoham, Toby Walsh
+Chapter 3: Responsible AI

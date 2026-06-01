@@ -1,0 +1,7 @@
+Nvidia released three open-access 
+models for vision-language tasks, 
+achieving top scores on OCRBench (for 
+optical character recognition) and VQAv2 
+(for natural language understanding).
+Figure 2.1.22 
+Source: Dai et al., 2024

@@ -1,0 +1,19 @@
+OWASP Top 10 for LLM Applications v2.0
+2
+genai.owasp.org
+Moving Forward
+Like the technology itself, this list is a product of the open-source community’s insights and
+experiences. It has been shaped by contributions from developers, data scientists, and security
+experts across sectors, all committed to building safer AI applications. We’re proud to share this
+2025 version with you, and we hope it provides you with the tools and knowledge to secure LLMs
+effectively.
+Thank you to everyone who helped bring this together and those who continue to use and improve
+it. We’re grateful to be part of this work with you.
+Steve Wilson
+Project Lead
+OWASP Top 10 for Large Language Model Applications
+LinkedIn: https://www.linkedin.com/in/wilsonsd/
+Ads Dawson
+Technical Lead & Vulnerability Entries Lead
+OWASP Top 10 for Large Language Model Applications
+LinkedIn: https://www.linkedin.com/in/adamdawson0/

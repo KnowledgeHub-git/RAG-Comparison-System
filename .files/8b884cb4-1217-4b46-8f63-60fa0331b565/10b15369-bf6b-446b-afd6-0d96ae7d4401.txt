@@ -1,0 +1,9 @@
+stute RAG: Overcoming Imperfect Retrieval Augmentation and Knowledge Conflicts for
+Large Language Models
+3. Information Leakage in Embedding Models
+4. Sentence Embedding Leaks More Information than You Expect: Generative Embedding
+Inversion Attack to Recover the Whole Sentence
+5. New ConfusedPilot Attack Targets AI Systems with Data Poisoning
+6. Confused Deputy Risks in RAG-based LLMs
+7. How RAG Poisoning Made Llama3 Racist!
+8. What is the RAG Triad?

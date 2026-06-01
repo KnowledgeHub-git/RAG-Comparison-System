@@ -1,0 +1,13 @@
+Yoav Shoham, Russell Wald, 
+Toby Walsh, Armin Hamrah, Lapo Santarlasci, Julia Betts Lotufo, Alexandra Rome, Andrew Shi, Sukrut Oak. “The AI Index 2025 
+Annual Report,” AI Index Steering Committee, Institute for Human-Centered AI, Stanford University, Stanford, CA, April 2025. 
+https://doi.org/10.48550/arXiv.2504.07139
+The AI Index 2025 Annual Report by Stanford University is licensed under Attribution-NoDerivatives 4.0 International.
+The AI Index 2025 Report is supplemented by raw data and an interactive tool. We invite each reader to use the data and the 
+tool in a way most relevant to their work and interests.
+	
+• Raw data and charts: The public data and high-resolution images of all the charts in the report are available on 
+Google Drive.
+	
+• Global AI Vibrancy Tool: Compare the AI ecosystems of over 30 countries. The Global AI Vibrancy tool will be 
+updated in the summer of 2025.

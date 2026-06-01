@@ -1,0 +1,12 @@
+Artificial Intelligence
+Index Report 2025
+3
+Top Takeaways
+1. AI performance on demanding benchmarks continues to improve.  In 2023, researchers introduced new 
+benchmarks—MMMU, GPQA, and SWE-bench—to test the limits of advanced AI systems. Just a year later, performance sharply 
+increased: scores rose by 18.8, 48.9, and 67.3 percentage points on MMMU, GPQA, and SWE-bench, respectively. Beyond 
+benchmarks, AI systems made major strides in generating high-quality video, and in some settings, language model agents even 
+outperformed humans in programming tasks with limited time budgets.
+2. AI is increasingly embedded in everyday life. From healthcare to transportation, AI is rapidly moving from the lab 
+to daily life. In 2023, the FDA approved 223 AI-enabled medical devices, up from just six in 2015. On the roads, self-driving cars 
+are no longer experimental: Waymo, one of the largest U.S. operators, provides over 150,000 autonomous rides each week, while

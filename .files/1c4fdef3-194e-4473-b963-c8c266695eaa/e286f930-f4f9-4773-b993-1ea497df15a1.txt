@@ -1,0 +1,22 @@
+expected to become a crucial component of economic and 
+military power in the near future.
+To track the distribution of AI research contributions on 
+landmark publications by country, the Epoch dataset is coded 
+according to the following methodology:
+	
+1. A snapshot of the dataset was taken in March 2025. 
+This includes papers about landmark models, selected 
+using the inclusion criteria of importance, relevance, 
+and uniqueness, as described in the Compute Trends 
+dataset documentation.
+	
+2. The authors are attributed to countries based on their 
+affiliation credited on the paper. For international 
+organizations, authors are attributed to the country 
+where the organization is headquartered, unless a 
+more specific location is indicated.
+	
+3. All of the landmark publications are aggregated within 
+time periods (e.g., monthly or yearly) and the national 
+contributions compiled to determine the extent of 
+each country’s contribution to landmark AI research

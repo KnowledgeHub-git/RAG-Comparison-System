@@ -1,0 +1,19 @@
+00-plus 
+GPUs via public-private partnerships, develop a national nonpersonal 
+data platform, and support homegrown AI models and deep-tech 
+startups. It also prioritizes ethical AI governance and expanding AI 
+labs beyond major cities to democratize access. 
+French government fines Google 250 million euros over 
+use of copyrighted information
+France’s competition watchdog, the Autorité de la Concurrence, 
+took a harsh stance toward negligent model training when it fined 
+Google 250 million euros for using French news content to train 
+Bard, now Gemini, the company’s AI-powered chatbot—without 
+notifying media companies. The government cited the offense as a 
+breach of EU intellectual property rules, and claimed it prevented 
+publishers and press agencies from negotiating fair prices. Google 
+accepted the settlement and proposed a series of measures to 
+mitigate scraping issues.
+6.1 Major Global AI Policy News in 2024
+Chapter 6: Policy and Governance
+Source: TechCrunch, 2024

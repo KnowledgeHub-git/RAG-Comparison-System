@@ -1,0 +1,11 @@
+is an essential component of 
+RAG. During a RAG task, when users input a query, the model 
+transforms it into an embedding vector. This transformation 
+enables the model to then search for relevant information. 
+MTEB includes 58 datasets spanning 112 languages and 
+eight embedding tasks (Figure 2.2.19).10 For example, in the 
+bitext mining task, there are two sets of sentences from two 
+different languages, and for every sentence in the first set, 
+the model is tasked to find the best match in the second set.
+Tasks in the MTEB benchmark 
+Source: Muennighoff et al., 2023

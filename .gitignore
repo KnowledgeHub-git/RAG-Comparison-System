@@ -1,0 +1,36 @@
+# ============================================================
+# .gitignore — RAG Comparison System (Leak-Proof)
+# ============================================================
+
+# ⚠️ NEVER commit the .env file (contains API keys)
+.env
+.env*.local
+
+# Virtual environment
+.venv/
+venv/
+env/
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+dist/
+build/
+
+# RAG system data, databases & caches (large generated files)
+chroma_db/
+output/
+llm_cache/
+
+# IDE
+.vscode/
+.idea/
+*.code-workspace
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+logs/

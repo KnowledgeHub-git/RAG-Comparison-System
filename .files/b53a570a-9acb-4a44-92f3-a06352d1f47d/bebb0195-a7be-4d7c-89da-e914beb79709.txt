@@ -1,0 +1,7 @@
+roximately 2 billion tokens. By 2020, 
+GPT-3 175B—one of the models underpinning the original 
+ChatGPT—was trained on an estimated 374 billion tokens. 
+In contrast, Meta’s flagship LLM, Llama 3.3, released in the 
+summer of 2024, was trained on roughly 15 trillion tokens. 
+According to Epoch AI, LLM training datasets double in size 
+approximately every eight months.
