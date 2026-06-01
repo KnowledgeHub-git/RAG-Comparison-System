@@ -9,11 +9,11 @@ Powered by **Google Gemini** (for LLM reasoning & embeddings), **ChromaDB** (Sta
 
 ## 🚀 Key Features
 
-* **3-Way Side-by-Side Dashboard:** Concurrent execution of all 3 engines on every query using an asynchronous thread pool.
+* **Unified Web Dashboard:** A gorgeous, custom React + Vite + Tailwind CSS Single-Page Application (SPA) served directly from our FastAPI backend, featuring dynamic interactive graph visualizations.
 * **AI Referee Evaluation:** An objective Google Gemini judge evaluates the answers side-by-side, picking the Expected Winner with a structured reasoning breakdown.
-* **Embedded Interactive Vis.js Graph:** Browse, search, hover, zoom, and freeze your extracted entity-relationship graph (799 nodes, 1,020 relationships) directly in the welcome screen iframe.
+* **Embedded Interactive Vis.js Graph:** Browse, search, hover, zoom, and freeze your extracted entity-relationship graph (799 nodes, 1,020 relationships) directly in the Zilliz Subgraph Explorer page.
 * **Cloud Database Explorer Hub:** Connected directly to **Neo4j AuraDB on Google Cloud** with visual stats and Bolt protocol portals.
-* **Dual Runtime Interfaces:** Supports both a gorgeous, rich-aesthetics web dashboard (via Chainlit) and an optimized CLI command suite.
+* **Dual Runtime Interfaces:** Supports both a custom React SPA web client and an optimized CLI command suite.
 
 ---
 
@@ -105,12 +105,11 @@ python src/main.py ingest
 ## 🚀 How to Run the System
 
 ### 1. Web Dashboard Interface (Highly Recommended)
-Launch the 3-column side-by-side RAG dashboard with embedded interactive Vis.js graphs:
+Launch the unified FastAPI server (which automatically serves the compiled React Single-Page Application on port 8000):
 ```bash
-.venv\Scripts\chainlit run src/app.py --port 8000
+.venv\Scripts\python.exe src/app.py
 ```
 Open **[http://localhost:8000](http://localhost:8000)** in your web browser:
-* Explore the live interactive **Vis.js Graph visualizer** directly inside your welcome screen.
 * Query comparisons and watch the **AI Referee** judge the answers side-by-side.
 * Access the dedicated visualizer full-screen tab at `/visualizer` or the Neo4j Hub portal at `/graph`.
 
