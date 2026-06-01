@@ -276,12 +276,50 @@ class VectorGraphRAGSystem:
                 
             latency_ms = round((time.time() - start) * 1000)
             
+            # Extract subgraph data for React visualizer
+            nodes_payload = []
+            edges_payload = []
+            seed_entities = []
+            selected_relation_ids = []
+            candidate_relation_ids = []
+            
+            if hasattr(result, "retrieval_detail") and result.retrieval_detail:
+                seed_entities = result.retrieval_detail.entity_texts
+                candidate_relation_ids = result.retrieval_detail.relation_ids
+                
+            if hasattr(result, "rerank_result") and result.rerank_result:
+                selected_relation_ids = result.rerank_result.selected_relation_ids
+
+            if hasattr(result, "subgraph") and result.subgraph and hasattr(result.subgraph, "graph"):
+                G_sub = result.subgraph.graph
+                for node_name, node_data in G_sub.nodes(data=True):
+                    nodes_payload.append({
+                        "id": node_name,
+                        "label": node_name,
+                        "entity_type": node_data.get("entity_type", "UNKNOWN"),
+                        "description": node_data.get("description", "")
+                    })
+                for u, v, edge_data in G_sub.edges(data=True):
+                    edges_payload.append({
+                        "source": u,
+                        "target": v,
+                        "description": edge_data.get("description", ""),
+                        "weight": float(edge_data.get("weight", 1.0))
+                    })
+
             return {
                 "answer": answer,
                 "sources": sources,
                 "latency_ms": latency_ms,
                 "chunks_used": len(sources),
                 "method": "vector_graph_rag",
+                "subgraph": {
+                    "nodes": nodes_payload,
+                    "edges": edges_payload,
+                    "seed_entities": seed_entities,
+                    "selected_relation_ids": selected_relation_ids,
+                    "candidate_relation_ids": candidate_relation_ids
+                }
             }
         except Exception as e:
             print(f"[-] Zilliz Query Failed: {e}")
